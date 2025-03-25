@@ -9,7 +9,7 @@ The Gobi Desert, spanning parts of northern China and southern Mongolia, is a va
    <img src="./fig/fig1.png" width="30%"> 
 </p>
 <p align="center">
-   <img src="./fig/fig2.png" width="70%"> 
+   <img src="./fig/fig2.png" width="30%"> 
 </p>
 <p align="right">
    <img src="./fig/fig3.png" width="30%"> 
