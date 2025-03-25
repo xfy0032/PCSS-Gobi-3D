@@ -5,10 +5,20 @@
 
 The Gobi Desert, spanning parts of northern China and southern Mongolia, is a vast region characterized by its harsh, arid conditions. The Alxa League in Inner Mongolia, where this dataset was collected, presents a typical segment of the Gobi Desert. This area uniquely combines rocky landscapes, sparse vegetation, and occasional dunes. The environment poses significant challenges for autonomous systems due to its extreme temperatures, rugged terrain, and limited visibility caused by frequent dust storms. These characteristics make the Gobi Desert an ideal location for testing and developing advanced point cloud processing technologies for challenging off-road environments.
 
+<p align="left">
+   <img src="./fig/fig1.png" width="30%"> 
+</p>
+<p align="center">
+   <img src="./fig/fig2.png" width="70%"> 
+</p>
+<p align="right">
+   <img src="./fig/fig3.png" width="30%"> 
+</p>
+
 ## About PCSS-Gobi-3D Dataset
 
 ### Overview
-PCSS-Gobi-3D is a first-of-its-kind point cloud dataset specifically designed for semantic segmentation tasks that focus on transitioning from urban scenes to off-road environments. Collected in the Alxa League of Inner Mongolia, this dataset offers researchers a unique opportunity to explore and develop domain-adaptive models capable of understanding complex desert terrains.
+PCSS-Gobi-3D is a first-of-its-kind point cloud dataset specifically designed for semantic segmentation tasks in desert off-road environments. Collected in the Alxa League of Inner Mongolia, this dataset offers researchers a unique opportunity to explore and develop domain-adaptive models capable of understanding complex desert terrains.
 
 
 ### Features
