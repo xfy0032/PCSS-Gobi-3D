@@ -28,7 +28,22 @@ PCSS-Gobi-3D is a first-of-its-kind point cloud dataset specifically designed fo
 To utilize the PCSS-Gobi-3D dataset in your research or application development:
 1. **Download:** Download link soon to be available.
 2. **Data format:** Our data organization method is consistent with the SemanticKITTI dataset(http://www.semantic-kitti.org/).
-3. **Implementation:** Use the provided point clouds and annotations to train and test your models. Example code snippets are available in the repository to help you get started quickly.
+   
+```
+├──sequences
+        ├── Seq. No./  # new sequence from  PCSS-Gobi-3D Dataset    
+        │   ├── velodyne/	 # directory containing ".bin" files with our 128-channel point clouds
+        |   |	├── 000000.bin
+        |   |	├── 000001.bin
+        |   |	└── ...
+        │   └── labels/          
+        |       ├── 000000.label
+        |       ├── 000001.label
+        |       └── ...   
+     
+```
+
+4. **Implementation:** Use the provided point clouds and annotations to train and test your models. Example code snippets are available in the repository to help you get started quickly.
 
 
 
