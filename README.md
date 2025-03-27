@@ -43,7 +43,7 @@ To utilize the PCSS-Gobi-3D dataset in your research or application development:
      
 ```
 
-4. **Auxiliary tool:**  The dataset was developed using the open-source tool point_labeler (https://github.com/jbehley/point_labeler), which enables visualization and further editing of the dataset.
+3. **Auxiliary tool:**  The dataset was developed using the open-source tool point_labeler (https://github.com/jbehley/point_labeler), which enables visualization and further editing of the dataset.
 
 
 
