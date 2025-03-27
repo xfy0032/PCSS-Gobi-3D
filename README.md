@@ -27,7 +27,7 @@ PCSS-Gobi-3D is a first-of-its-kind point cloud dataset specifically designed fo
 ### Usage
 To utilize the PCSS-Gobi-3D dataset in your research or application development:
 1. **Download:** Download link soon to be available.
-2. **Preprocessing:** Follow the preprocessing guidelines provided in the documentation to prepare the data according to your specific requirements.
+2. **Data format:** Our data organization method is consistent with the SemanticKITTI dataset(http://www.semantic-kitti.org/).
 3. **Implementation:** Use the provided point clouds and annotations to train and test your models. Example code snippets are available in the repository to help you get started quickly.
 
 
