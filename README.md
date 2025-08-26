@@ -21,7 +21,7 @@ PCSS-Gobi-3D is a first-of-its-kind point cloud dataset specifically designed fo
 - **Diverse Terrain:** Covers the typical terrains in the Gobi Desert, including rocky areas, sandy patches, and vegetative regions.
 - **High-Quality Data:** Utilizes high-resolution LiDAR technology to capture detailed 3D representations of the environment.
 - **Semantic Annotations:** Each point cloud is meticulously annotated with semantic labels, supporting supervised learning approaches.
-- **Off-Road Focus:** Specifically curated for research on off-road environment, bridging the gap between urban and off-road scenes understanding.
+- **Off-Road Focus:** Specifically curated for research on the off-road environment, bridging the gap between urban and off-road scene understanding.
 
 
 ### Usage
@@ -49,11 +49,16 @@ To utilize the PCSS-Gobi-3D dataset in your research or application development:
    <img src="./fig/fig4.png" width="70%"> 
 </p>
 
+### Code
+ The dataset is designed to facilitate research on cross-domain point cloud semantic segmentation. A related study employing this dataset is currently under peer review. Upon completion of the review process and subsequent organization, the corresponding source code will be made publicly available. 
+
+
+
 ### Contribution
 We encourage contributions from the community to enhance this dataset. Whether it involves adding more annotated data, proposing new algorithms, or suggesting improvements, your input is highly valued.
 
 ### Contact
-For any questions or further information, please contact us at xfy0032@zhejianglab.org.
+For any questions or further information, please get in touch with us at xfy0032@zhejianglab.org or xfy0032@foxmail.com. **Both the dataset and the code will be released free of charge for non-commercial academic research under an appropriate license, to ensure reproducibility and to foster further advancements in the field**.
 
 ---
 
