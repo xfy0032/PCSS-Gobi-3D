@@ -50,9 +50,11 @@ To utilize the PCSS-Gobi-3D dataset in your research or application development:
 </p>
 
 ### Code
- The dataset is designed to facilitate research on cross-domain point cloud semantic segmentation. A related study employing this dataset is currently under peer review. Upon completion of the review process and subsequent organization, the corresponding source code will be made publicly available. 
+The dataset is designed to facilitate research on cross-domain point cloud semantic segmentation. A related study employing this dataset is currently under peer review, which focuses on knowledge-augmented deep learning for cross-domain point cloud semantic segmentation—specifically, training on urban point cloud datasets and testing on off-road datasets. Upon completion of the review process and subsequent organization, the corresponding source code will be made publicly available. 
 
-
+<p align="center">
+   <img src="./fig/fig5.png" width="70%"> 
+</p>
 
 ### Contribution
 We encourage contributions from the community to enhance this dataset. Whether it involves adding more annotated data, proposing new algorithms, or suggesting improvements, your input is highly valued.
